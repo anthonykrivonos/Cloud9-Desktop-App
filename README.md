@@ -2,6 +2,7 @@
 Cloud9 Desktop app made in Electron. Please fork and add improvements!
 
 Instructions:
+
 1. Clone this repo on your desktop and do `cd {File Path}` in Terminal
 
 2. `npm install --save`
@@ -11,6 +12,7 @@ Instructions:
 4. You will now see the Desktop app start.
 
 Proposed Improvements:
+
 - Create new app window when clicking on repository button.
 
 - Sign into the app, itself, and contain an array of workspaces in a "Workspaces" tab on the toolbar.
