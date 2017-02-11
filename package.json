@@ -1,0 +1,22 @@
+{
+  "name": "c9-standalone",
+  "version": "0.1.0",
+  "description": "Cloud9 desktop launcher using Electron.",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run index.js",
+    "start": "electron ."
+  },
+  "keywords": [
+    "cloud9",
+    "desktop",
+    "launcher",
+    "using",
+    "electron"
+  ],
+  "author": "Anthony Krivonos",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.15"
+  }
+}
